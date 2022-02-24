@@ -18,7 +18,7 @@ I'm MingShun, a Year 3 undergraduate studying a Computer Engineering's degree in
 ---
 ### Past Projects
 
-* 👥[SmarkTrack](https://github.com/MingShun98/SmartTrack-NUSorbital2020), designed to help the track your expense as well as a couple expense feature so that friends, families and partner could share a budget.
+* 👥[SmarkTrack](https://github.com/MingShun98/SmartTrack-NUSorbital2020), designed to help track your personal expense as well as a couple feature so that friends, families and partner could share a budget.
 * 👩‍⚕️[HealthVault](https://github.com/MingShun98/HealthVault), a desktop application making use of Command Line Interface (CLI) for healthcare personnel.
 * 🚗[RTOS-based Robotic Car](https://github.com/MingShun98/RTOS-based-Robotic-Car), using a FRDM-KL25Z board with Keil RTOS, controlled via an Android App.
 * 🤖[Alex](https://github.com/MingShun98/AlexBot-B02-6A), a Search and Rescue (SAR) robot with remote naviagation and LIDAR mapping built using a Raspberry Pi and Arduino.
