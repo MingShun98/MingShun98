@@ -4,7 +4,6 @@ I'm MingShun, a Year 3 undergraduate studying a Computer Engineering's degree in
 
 * Currently: Interning at Integro Technolgies as a Java Softare Developer. 
 * Previously: Completing Y2S2 studies in NUS
-
 - 📫 How to reach me: mingshun1998@hotmail.com
 
 ---
