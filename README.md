@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm MingShun, a Year 3 undergraduate studying a Computer Engineering's degree in the National University of Singapore. I have a keen interest in software programming and have an interest in full-stack development as well as blockchain technology. Currently exploring the different fields out there to gain more experience. 
+I'm MingShun, a Year 3 undergraduate studying a Computer Engineering's degree in the National University of Singapore. I enjoy software programming and have an interest in full-stack development as well as blockchain technology. Currently exploring the different fields out there to gain more experience. 
 
 * Currently: Interning at Integro Technolgies as a Java Softare Developer. 
 * Previously: Completing Y2S2 studies in NUS
