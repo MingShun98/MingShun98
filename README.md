@@ -3,7 +3,7 @@
 I'm MingShun, a Year 3 undergraduate studying a Computer Engineering's degree in the National University of Singapore. I enjoy software programming and have an interest in ***full-stack development*** as well as ***blockchain technology***. Currently exploring the different fields out there to gain more experience. 
 
 * Currently: Student Exchange Semester at Technical University of Munich (TUM), Germany.
-* Previously: Interning at Integro Technolgies as a Java Softare Developer. 
+* Previously: Interning at Integro Technolgies as a Java Software Developer. 
 * 📫 How to reach me: mingshun1998@hotmail.com
 
 ---
