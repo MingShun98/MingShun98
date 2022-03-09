@@ -12,10 +12,10 @@ I'm MingShun, a Year 3 undergraduate studying a Computer Engineering's degree in
 * Java
 * C++
 * C
-* Python
-* Html/CSS
+* HTML/CSS
 * Javascript
-* SQL
+* Basic SQL
+* Basic Python
 ---
 ### Past Projects
 
