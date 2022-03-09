@@ -24,7 +24,7 @@ I'm MingShun, a Year 3 undergraduate studying a Computer Engineering's degree in
 * 🚗[RTOS-based Robotic Car](https://github.com/MingShun98/RTOS-based-Robotic-Car), using a FRDM-KL25Z board with Keil RTOS, controlled via an Android App.
 * 🤖[Alex](https://github.com/MingShun98/AlexBot-B02-6A), a Search and Rescue (SAR) robot with remote naviagation and LIDAR mapping built using a Raspberry Pi and Arduino.
 * 📅[Duke](https://github.com/MingShun98/DukeJavaProgram), a desktop app for managing your todos, events and deadlines, optimised for use via a Command Line Interface (CLI).
-* 🌐[Personal Website](https://github.com/MingShun98/Portfolio-Website), my personal portfolio website created with HTML/CSS/Boostrap when I was down with Covid-19.
+* 🌐[Personal Website](https://github.com/MingShun98/Portfolio-Website), my personal portfolio website coded when I was down with Covid-19 with HTML/CSS/Boostrap.
 
 <br>
 <br>
