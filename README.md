@@ -9,13 +9,14 @@ I'm MingShun, a final year undergraduate studying a Computer Engineering's degre
 ---
 ### Programming Languages
 
+* Python
 * Java
 * C++
 * C
 * HTML/CSS
 * Javascript
 * Basic SQL
-* Basic Python
+
 ---
 ### Past Projects
 
