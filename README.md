@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm MingShun, a final year undergraduate studying a Computer Engineering's degree in the National University of Singapore. I enjoy software programming and have an interest in ***full-stack development*** as well as ***fin-tech***. Currently exploring the different fields out there to gain more experience. 
+I'm MingShun, currently in a full-time role at Mircon focusing on Data Automation and a Computer Engineering's graduate from the National University of Singapore. I enjoy software programming and have an interest in ***full-stack development*** as well as ***fin-tech***. Currently exploring the different fields out there to gain more experience. 
 
-* Currently: Final Year Computer Engineering Student in NUS / SGIS scholar @ Micron.  
+* Currently: SGIS scholar @ Micron as a Industrial Planning Engineer (Data Automation) .  
 * Previously: Student Exchange Semester at Technical University of Munich (TUM), Germany.
 * 📫 How to reach me: mingshun1998@hotmail.com
 
@@ -15,7 +15,7 @@ I'm MingShun, a final year undergraduate studying a Computer Engineering's degre
 * C
 * HTML/CSS
 * Javascript
-* Basic SQL
+* SQL
 
 ---
 ### Past Projects
