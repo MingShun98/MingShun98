@@ -2,8 +2,8 @@
 
 I'm MingShun, a Computer Engineering graduate from the National University of Singapore and currently in a full-time role at Micron Technology focusing on Data Automation. I enjoy software programming and have an interest in ***full-stack development*** as well as ***fin-tech***. Currently exploring the different fields out there to gain more experience. 
 
-* Currently: SGIS scholar @ Micron as a Industrial Planning Engineer (Data Automation) .  
-* Previously: Student Exchange Semester at Technical University of Munich (TUM), Germany.
+* Currently: SGIS scholar @ Micron as a Strategic Planning Engineer (Data Automation) .  
+* Previously: Year 4 Computer Engineering Student.
 * 📫 How to reach me: mingshun1998@hotmail.com
 
 ---
